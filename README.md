@@ -1,3 +1,10 @@
+# Seminarska naloga 
+# Predmet Spletno programiranje 1
+# Primož Mlakar
+# HeplDesk
+#
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
