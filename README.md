@@ -6,7 +6,7 @@
 
 ## Portal za spremljanje prijav in odprave napak
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+Prijava napak in njihovo reševanje, sledenje porabljenemu času, ... Poročila za obračune, poročila dogodkov, poročila o porabljenem času za odpravo težav. 🚀
 
 ## 📚  Uporabljneni viri 
 * [Bootstrap](https://getbootstrap.com/)
