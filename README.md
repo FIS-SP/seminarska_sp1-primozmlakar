@@ -1,6 +1,6 @@
 # Seminarska naloga 
- Predmet: Spletno programiranje 1
- Študent: Primož Mlakar
+### Predmet: Spletno programiranje 1
+### Študent: Primož Mlakar
 
 ## HeplDesk - Portal za spremljanje prijav in odprave napak
 
