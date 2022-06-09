@@ -1,10 +1,8 @@
 # Seminarska naloga 
-## Predmet Spletno programiranje 1
-## Primož Mlakar
-## HeplDesk
-##
+ Predmet: Spletno programiranje 1
+ Študent: Primož Mlakar
 
-## Portal za spremljanje prijav in odprave napak
+## HeplDesk - Portal za spremljanje prijav in odprave napak
 
 Prijava napak in njihovo reševanje, sledenje porabljenemu času, ... Poročila za obračune, poročila dogodkov, poročila o porabljenem času za odpravo težav. 🚀
 
