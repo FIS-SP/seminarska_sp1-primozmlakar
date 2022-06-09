@@ -1,8 +1,8 @@
 # Seminarska naloga 
-# Predmet Spletno programiranje 1
-# Primož Mlakar
-# HeplDesk
-#
+## Predmet Spletno programiranje 1
+## Primož Mlakar
+## HeplDesk
+##
 
 ## Portal za spremljanje prijav in odprave napak
 
